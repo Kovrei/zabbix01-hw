@@ -1,11 +1,10 @@
+# Mission 1
 
-#Mission 1
-
-##1.Прикрепите в файл README.md скриншот авторизации в админке.
-
+## 1.Прикрепите в файл README.md скриншот авторизации в админке.
 
 
-##2.Приложите в файл README.md текст использованных команд в GitHub.
+
+## 2.Приложите в файл README.md текст использованных команд в GitHub.
 
 git clone https://github.com/Kovrei/zabbix01-hw.git
 
@@ -23,7 +22,7 @@ nano README.md
 git add .
 git commit -m "readme"
 
-git push origin main
+git push
 
 
 
