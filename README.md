@@ -9,17 +9,23 @@
 git clone https://github.com/Kovrei/zabbix01-hw.git
 
 rm -rf md-instruction.md
+
 rm -rf screen-instruction.md
 
 cd img
+
 rm i*
 
 git status
+
 git add .
+
 git commit -m "rm"
 
 nano README.md
+
 git add .
+
 git commit -m "readme"
 
 git push
