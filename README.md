@@ -2,7 +2,7 @@
 
 1. Прикрепите в файл README.md скриншот авторизации в админке.
 
-
+![alt text](https://raw.githubusercontent.com/Kovrei/zabbix01-hw/main/img/zab1.PNG)
 
 2. Приложите в файл README.md текст использованных команд в GitHub.
 
